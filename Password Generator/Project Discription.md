@@ -1,0 +1,1 @@
+This is one of the first projects that I made using python. This program helps you generate a password for your accounts using the random library. You just have to enter the limit of the password you want and this program will generate it for you. 
