@@ -1,7 +1,13 @@
 # Program to generate password
+
+# The main part of the code is the random libraray 
 import random
 
+
+
 def password(a,b):
+    
+    # Function takes the range of characters and returns the password "
     digits=random.randint(a,b)
     password=""
     for i in range(digits):
@@ -26,6 +32,8 @@ def password(a,b):
     return ( password )
 
 def main ():
+    
+    # Main function of the program "
     start_length=int(input("Enter the starting number of the range of the password "))
     end_length = int ( input ("Enter the ending number of the range of the password "))
     print("Your password is ")
