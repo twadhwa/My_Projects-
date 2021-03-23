@@ -1,0 +1,1 @@
+This is a classification project that i made using basic machine learnig libraries like Sklearn , pandas, numpy and matplotlib. In project i have made a model that can predict whether a person has heart disease or not with the help some given amount of data. 
